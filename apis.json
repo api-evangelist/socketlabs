@@ -1,0 +1,72 @@
+{
+    "name": "SocketLabs",
+    "description": "SocketLabs offers trusted, easy-to-use email delivery solutions, in-depth analytics, and easy integration! Get started online today with a free account.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/482-socketlabs.jpg",
+    "tags": [
+        "emails",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/socketlabs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SocketLabs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/482-socketlabs.jpg",
+            "humanURL": "https:\/\/www.socketlabs.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/socketlabs-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/socketlabs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.socketlabs.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/socketlabs"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/socketlabs"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/socketlabs"
+        },
+        {
+            "type": "Email",
+            "url": "support@socketlabs.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/socketlabs"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.socketlabs.com\/signup\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/socketlabs"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.socketlabs.com"
+        }
+    ]
+}
